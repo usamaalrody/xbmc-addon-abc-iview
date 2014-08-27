@@ -1,3 +1,6 @@
+[B]Version 1.6.3[/B]
+- Parse episode title and add aired date
+
 [B]Version v1.6.2[/B]
 - Version 1.6.2
 - Only allow issue reporting on latest version
